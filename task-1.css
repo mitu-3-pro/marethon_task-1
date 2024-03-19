@@ -1,0 +1,112 @@
+.container{
+   	background: url("bulding.jpg")no-repeat center;
+   	height: 850px;
+    background-size: cover;
+    top: 0px;
+    position: absolute;
+    left: 25%;
+    right: 25%;
+}
+.head{
+	position: relative;
+	bottom: 22px;
+	background-size:cover;
+	width: 100%;
+	height: auto;
+	background:#89CFF0;
+	opacity: 0.9;
+	color: white;
+	letter-spacing: 10px;
+}
+h1.head{
+	padding: 30px;
+	letter-spacing: 30px;	 
+}
+.com-3{
+	position: absolute;
+	background-color:#89cff0;
+	color:white;
+	height: 120px;
+	z-index: 0.5;
+	width: 670px;
+	top: 300px;
+	opacity: 0.9;
+}
+.com-1{ 
+    color: white; 
+}
+.com-4{
+	background-color: hotpink;
+	opacity: 0.7;
+	width: 4px;
+	height: 10px;
+}
+.com-5{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.com-6{
+	position: relative;
+	height: 430px;
+	width: 100%;
+	background:black;
+	opacity: 0.8;
+	top: 169px;
+	color: white;
+}
+.com-9{
+	position: relative;
+	background-color: hotpink;
+	opacity: 0.6;
+	width: 4px;
+	height:4px;
+}
+p{
+	padding-left: 15px;
+}
+.hey{
+	position: relative;
+	top: 30px;
+}.com-2{
+	position: absolute;
+	right: 30px;
+	top: 85px;
+	width: 200px;
+	height: 695px;
+	background-color: #FF69B4;
+	opacity: 0.9;
+	color: white;
+}
+.img-1{
+	position: relative;
+	top: 120px;
+	height: 50px;
+	width: 60px;
+	opacity: 0.8;
+}
+.com-7{
+	position: relative;
+	top: 95px;
+}
+.com-8{
+	position: relative;
+	top: 70px;
+}
+.img-2{
+	position: relative;
+	top: 150px;
+	height: 100px;
+	width: 100px;
+}
+.com-10{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	top: 700px;
+	width: 310px;
+	height: 130px;
+	background-color: #89CFF0;
+	opacity: 0.9;
+	padding: 10px;
+}
